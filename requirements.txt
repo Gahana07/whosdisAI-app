@@ -5,3 +5,6 @@ Pillow
 numpy
 opencv-python-headless
 efficientnet-pytorch
+scikit-learn
+matplotlib
+tqdm
